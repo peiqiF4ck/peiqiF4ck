@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 <h2>I am peiqiF4ck</h2>
 <ul>
   <li>2021-02-13 创建第一个项目 AttackWebFrameworkTools。这是一款专门对网站使用各种框架进行自动化漏洞测试工具。只要填写要测试的url即可实现傻瓜式自动化批量测试!!!专注网站安全30年😄😃🤣🤣🤣🤣😂😂😂<br/>
-  <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=peiqiF4ck&amp;repo=AttackWebFrameworkTools-5.1-main
-&amp;cache_seconds=86400&amp;theme=cobalt" alt="cobalt" style="max-width:100%;">
+  <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=peiqiF4ck&amp;repo=AttackWebFrameworkTools-5.1-main&amp;cache_seconds=86400&amp;theme=cobalt" alt="cobalt" style="max-width:100%;">
   -->
   </li>
   <li>编译了最新版本的ysoserial java反序列化漏洞利用工具。并且增加测试类下载地址:外链:https://wwa.lanzoux.com/b09xsbzuh 密码:g80i。此是java反序列化工具。其中ysoserial-0.0.6-commons-beanutils-1.8.3-all.jar。是shiro自带CommonsBeanutils的利用链。以后会用到。
