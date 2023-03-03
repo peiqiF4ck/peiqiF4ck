@@ -28,7 +28,7 @@ Here are some ideas to get you started:
    <li>另外遇到shell.txt没有显示全部poc或者exp的百度或者谷歌搜索请求url即可得到答案。如何利用</li>
   <li>如果是如果shell结果没有任何提示那么有可能为上传马。或者冰蝎马冰蝎马密码为默认!!!。如果是上传马格式为http://xxx.com/x.jsp?f=x.jsp PostData:木马内容。后续如果遇到有waf情况马子将会更改!!!如果遇到有waf的用默认上传被拦截那么直接给我私信发地址我在替换成新的网马绕waf上传。感谢f****mi**ater 提交issue</li>
   <li>切勿利用项目里的所有工具对未授权的网站进行非法攻击。由此产生的法律后果由使用者自行承担!!!</li>
-  <li>无意中在freebuf看到这篇文章https://www.freebuf.com/articles/web/286234.html 使用工具说要创建include.txt和url.txt。这里解释一下include.txt是模块勾选功能。url.txt是批量的目标。根据功能选择是否用勾选功能选择模块。如果单个url和 全部或者单个模块。那么什么文件都不用创建!!!!注意看软件使用用法。当然也感谢这篇文章的作者普及工具使用方法。</li>
+  <li>无意中在freebuf看到这篇文章 使用工具说要创建include.txt和url.txt。这里解释一下include.txt是模块勾选功能。url.txt是批量的目标。根据功能选择是否用勾选功能选择模块。如果单个url和 全部或者单个模块。那么什么文件都不用创建!!!!注意看软件使用用法。当然也感谢这篇文章的作者普及工具使用方法。</li>
 </ul>
 <h2>github repo statistics</h2>
 
