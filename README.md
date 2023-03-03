@@ -23,11 +23,11 @@ Here are some ideas to get you started:
   <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=peiqiF4ck&amp;repo=AttackWebFrameworkTools-5.1-main&amp;cache_seconds=86400&amp;theme=cobalt" alt="cobalt" style="max-width:100%;">
   -->
   </li>
-    <!--
+
   <li>编译了最新版本的ysoserial java反序列化漏洞利用工具。并且增加测试类下载地址:外链:https://wwa.lanzoux.com/b09xsbzuh 密码:g80i。此是java反序列化工具。其中ysoserial-0.0.6-commons-beanutils-1.8.3-all.jar。是shiro自带CommonsBeanutils的利用链。以后会用到。
 
   JNDI注入工具   https://wwa.lanzoux.com/b09ykn6xg 密码:7hsp
- -->
+ 
   </li>
 <li>项目如果是直接getshell的那么连接工具是Behinder_v3.0 Beta 6 或者是 antSword 或者是菜刀。其中Behinder连接的shell会有标注。剩下就是蚁剑shell。没有密码的属于上传shell</li>
    <li>另外如果shell提示postData:之类的的意思就是要post提交你自己的webshell内容。工具的这个shell是一个上传的shell不是直接可以连接的webshell</li>
